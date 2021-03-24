@@ -2,7 +2,7 @@
 
 backup of my high sierra files, thou they shall not get lost
 
-this will get deleted if apple ever makes hackintoshes illegal.
+this will get deleted if apple ever makes hackintoshes illegal
 
 ### What works
 
@@ -23,6 +23,10 @@ These Clover files work with:
 ```
 
 NVIDIA is not supported in newer macOS releases. :(
+
+These files also worked with an Intel G4560 and will probably work with any Kaby Lake CPU.
+
+The 7700K is kinda overpriced.
 
 ### Tipps
 
