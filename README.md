@@ -42,6 +42,19 @@ date -u 1010101017
 
 When installing and updating it will crash mid installation once.
 
+#### You don't have a mac?
+
+Use [qemu](https://github.com/foxlet/macOS-Simple-KVM).
+
+And passthrough a usb adapter with:
+
+```
+-device usb-host,hostbus=2,hostport=1 \
+```
+
+Change the hostbus and port, check lspci.
+
+
 ### Post-Installation
 
 1. Update to the latest highSierra version
