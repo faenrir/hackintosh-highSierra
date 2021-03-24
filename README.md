@@ -2,6 +2,8 @@
 
 backup of my high sierra files, thou they shall not get lost
 
+this will get deleted if apple ever makes hackintoshes illegal.
+
 ### What works
 
 Everything except sleep.
@@ -23,6 +25,10 @@ These Clover files work with:
 NVIDIA is not supported in newer macOS releases. :(
 
 ### Tipps
+
+You can safely create a bootable usb stick with [tinu v.2.1](https://github.com/ITzTravelInTime/TINU/releases/download/2.1_PUBLIC_60/TINU.zip).
+
+Use [Clover v.5108](https://github.com/CloverHackyColor/CloverBootloader/releases/download/5108/Clover_r5108.pkg) to install the bootloader on the created usb stick (check the custom option to install in EFI). This is the last and best version that will work with these files.
 
 The HighSierra dmg will say that the install disk is damaged, open a terminal and change the date to fix this.
 
